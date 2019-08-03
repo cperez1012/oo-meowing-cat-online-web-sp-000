@@ -11,3 +11,5 @@ def meow
 end
 
 puts "meow!"
+
+maru.meow
