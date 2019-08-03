@@ -3,10 +3,7 @@ class Cat
 end
 
 def meow
-      puts "woof!"
-  end
-
-puts "meow!"
+  puts "meow!"
 end
 
 puts maru.meow
